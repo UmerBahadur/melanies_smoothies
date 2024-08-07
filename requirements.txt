@@ -1,4 +1,5 @@
 #requirements.py
-snowflake-connector-python
-snowflake-snowpark-python
+snowflake-connector-python==2.6.1  # Adjust the version based on compatibility
+snowflake-snowpark-python==1.1.0    # Adjust the version based on compatibility
+
 streamlit==1.31.1
